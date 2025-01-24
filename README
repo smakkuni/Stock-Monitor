@@ -1,0 +1,7 @@
+Stock Monitor Application allows the user to view company stock prices by inputing stock symbols fetched from Twelve Data API. 
+- Apple
+- IBM
+- MICROSOFT
+- TESLA
+- GOOGLE
+- AMAZON
